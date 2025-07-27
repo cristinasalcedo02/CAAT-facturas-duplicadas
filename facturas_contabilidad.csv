@@ -1,0 +1,104 @@
+numero_factura,fecha_emision,proveedor_id,nombre_proveedor,monto_total,detalle_productos,clave_unica_interna,fecha_registro_sistema,usuario_registro,estado_factura
+FAC-4000,2023-03-25,997654321,Proveedor B,1000.0,Servicios técnicos,INT-1000,2023-03-28 11:00:00,usuario2,válida
+FAC-4001,2023-02-15,973334444,Proveedor D,250.5,Compra de insumos,INT-1001,2023-02-15 12:00:00,usuario2,válida
+FAC-4002,2023-01-19,991234567,Proveedor A,250.5,Compra de insumos,INT-1002,2023-01-19 11:00:00,usuario3,válida
+FAC-4003,2023-05-11,973334444,Proveedor D,500.75,Servicios técnicos,INT-1003,2023-05-13 10:00:00,usuario1,válida
+FAC-4004,2023-01-29,997654321,Proveedor B,1000.0,Compra de insumos,INT-1004,2023-01-30 18:00:00,usuario2,válida
+FAC-4005,2023-06-27,997654321,Proveedor B,500.75,Servicios técnicos,INT-1005,2023-06-30 13:00:00,usuario2,válida
+FAC-4006,2023-04-01,981112233,Proveedor C,1500.25,Repuestos,INT-1006,2023-04-04 10:00:00,usuario3,válida
+FAC-4007,2023-02-12,981112233,Proveedor C,1500.25,Repuestos,INT-1007,2023-02-15 14:00:00,usuario3,válida
+FAC-4008,2023-04-24,981112233,Proveedor C,250.5,Repuestos,INT-1008,2023-04-26 16:00:00,usuario1,válida
+FAC-4009,2023-06-08,973334444,Proveedor D,1500.25,Compra de insumos,INT-1009,2023-06-09 18:00:00,usuario2,válida
+FAC-4010,2023-06-09,981112233,Proveedor C,1000.0,Servicios técnicos,INT-1010,2023-06-09 16:00:00,usuario2,válida
+FAC-4011,2023-02-12,991234567,Proveedor A,500.75,Compra de insumos,INT-1011,2023-02-13 13:00:00,usuario2,válida
+FAC-4012,2023-06-04,973334444,Proveedor D,500.75,Servicios técnicos,INT-1012,2023-06-07 12:00:00,usuario2,válida
+FAC-4013,2023-04-12,973334444,Proveedor D,1500.25,Repuestos,INT-1013,2023-04-14 09:00:00,usuario2,válida
+FAC-4014,2023-01-25,997654321,Proveedor B,500.75,Servicios técnicos,INT-1014,2023-01-26 09:00:00,usuario1,válida
+FAC-4015,2023-03-15,981112233,Proveedor C,1500.25,Repuestos,INT-1015,2023-03-17 09:00:00,usuario3,válida
+FAC-4016,2023-06-23,997654321,Proveedor B,1000.0,Compra de insumos,INT-1016,2023-06-26 10:00:00,usuario3,válida
+FAC-4017,2023-04-16,981112233,Proveedor C,1000.0,Repuestos,INT-1017,2023-04-18 13:00:00,usuario3,válida
+FAC-4018,2023-04-03,981112233,Proveedor C,1000.0,Servicios técnicos,INT-1018,2023-04-06 10:00:00,usuario3,válida
+FAC-4019,2023-06-25,997654321,Proveedor B,1000.0,Repuestos,INT-1019,2023-06-25 17:00:00,usuario3,válida
+FAC-4020,2023-02-18,973334444,Proveedor D,500.75,Servicios técnicos,INT-1020,2023-02-18 10:00:00,usuario3,válida
+FAC-4021,2023-02-16,991234567,Proveedor A,1000.0,Repuestos,INT-1021,2023-02-17 14:00:00,usuario3,válida
+FAC-4022,2023-03-16,981112233,Proveedor C,1500.25,Compra de insumos,INT-1022,2023-03-19 11:00:00,usuario3,válida
+FAC-4023,2023-03-21,973334444,Proveedor D,500.75,Compra de insumos,INT-1023,2023-03-24 10:00:00,usuario3,válida
+FAC-4024,2023-06-11,973334444,Proveedor D,1500.25,Repuestos,INT-1024,2023-06-14 18:00:00,usuario3,válida
+FAC-4025,2023-05-19,997654321,Proveedor B,500.75,Servicios técnicos,INT-1025,2023-05-20 09:00:00,usuario3,válida
+FAC-4026,2023-05-07,981112233,Proveedor C,500.75,Servicios técnicos,INT-1026,2023-05-07 15:00:00,usuario1,válida
+FAC-4027,2023-06-26,991234567,Proveedor A,1500.25,Servicios técnicos,INT-1027,2023-06-26 11:00:00,usuario1,válida
+FAC-4028,2023-05-19,973334444,Proveedor D,1500.25,Compra de insumos,INT-1028,2023-05-22 16:00:00,usuario3,válida
+FAC-4029,2023-05-05,997654321,Proveedor B,500.75,Servicios técnicos,INT-1029,2023-05-08 17:00:00,usuario2,válida
+FAC-4030,2023-02-14,973334444,Proveedor D,1000.0,Servicios técnicos,INT-1030,2023-02-14 13:00:00,usuario3,válida
+FAC-4031,2023-03-29,997654321,Proveedor B,1500.25,Compra de insumos,INT-1031,2023-03-29 18:00:00,usuario2,válida
+FAC-4032,2023-04-22,981112233,Proveedor C,1000.0,Servicios técnicos,INT-1032,2023-04-25 15:00:00,usuario3,válida
+FAC-4033,2023-03-17,997654321,Proveedor B,1500.25,Servicios técnicos,INT-1033,2023-03-17 11:00:00,usuario3,válida
+FAC-4034,2023-01-04,973334444,Proveedor D,250.5,Repuestos,INT-1034,2023-01-06 18:00:00,usuario3,válida
+FAC-4035,2023-05-14,981112233,Proveedor C,1500.25,Repuestos,INT-1035,2023-05-17 08:00:00,usuario1,válida
+FAC-4036,2023-06-28,973334444,Proveedor D,500.75,Compra de insumos,INT-1036,2023-06-28 13:00:00,usuario2,válida
+FAC-4037,2023-02-08,981112233,Proveedor C,250.5,Servicios técnicos,INT-1037,2023-02-09 18:00:00,usuario1,válida
+FAC-4038,2023-06-17,991234567,Proveedor A,500.75,Servicios técnicos,INT-1038,2023-06-18 16:00:00,usuario3,válida
+FAC-4039,2023-04-30,991234567,Proveedor A,250.5,Compra de insumos,INT-1039,2023-04-30 11:00:00,usuario2,válida
+FAC-4040,2023-03-13,981112233,Proveedor C,250.5,Repuestos,INT-1040,2023-03-14 11:00:00,usuario1,válida
+FAC-4041,2023-06-02,973334444,Proveedor D,1500.25,Compra de insumos,INT-1041,2023-06-03 11:00:00,usuario2,válida
+FAC-4042,2023-02-22,997654321,Proveedor B,1500.25,Servicios técnicos,INT-1042,2023-02-23 16:00:00,usuario3,válida
+FAC-4043,2023-04-22,973334444,Proveedor D,1000.0,Repuestos,INT-1043,2023-04-25 15:00:00,usuario2,válida
+FAC-4044,2023-05-19,981112233,Proveedor C,500.75,Servicios técnicos,INT-1044,2023-05-19 15:00:00,usuario2,válida
+FAC-4045,2023-05-03,981112233,Proveedor C,500.75,Repuestos,INT-1045,2023-05-04 12:00:00,usuario2,válida
+FAC-4046,2023-05-28,991234567,Proveedor A,500.75,Servicios técnicos,INT-1046,2023-05-30 17:00:00,usuario2,válida
+FAC-4047,2023-03-27,973334444,Proveedor D,500.75,Servicios técnicos,INT-1047,2023-03-27 15:00:00,usuario1,válida
+FAC-4048,2023-03-26,981112233,Proveedor C,1500.25,Servicios técnicos,INT-1048,2023-03-27 14:00:00,usuario1,válida
+FAC-4049,2023-06-06,991234567,Proveedor A,250.5,Repuestos,INT-1049,2023-06-09 11:00:00,usuario1,válida
+FAC-4050,2023-03-27,997654321,Proveedor B,1500.25,Repuestos,INT-1050,2023-03-29 09:00:00,usuario3,válida
+FAC-4051,2023-04-04,997654321,Proveedor B,500.75,Repuestos,INT-1051,2023-04-05 13:00:00,usuario1,válida
+FAC-4052,2023-04-15,973334444,Proveedor D,1500.25,Repuestos,INT-1052,2023-04-17 10:00:00,usuario2,válida
+FAC-4053,2023-04-02,981112233,Proveedor C,250.5,Servicios técnicos,INT-1053,2023-04-02 11:00:00,usuario3,válida
+FAC-4054,2023-01-17,991234567,Proveedor A,1000.0,Servicios técnicos,INT-1054,2023-01-17 13:00:00,usuario3,válida
+FAC-4055,2023-02-22,981112233,Proveedor C,250.5,Compra de insumos,INT-1055,2023-02-23 16:00:00,usuario1,válida
+FAC-4056,2023-02-20,981112233,Proveedor C,1500.25,Compra de insumos,INT-1056,2023-02-20 13:00:00,usuario1,válida
+FAC-4057,2023-01-13,997654321,Proveedor B,1500.25,Repuestos,INT-1057,2023-01-13 16:00:00,usuario2,válida
+FAC-4058,2023-06-23,981112233,Proveedor C,1000.0,Servicios técnicos,INT-1058,2023-06-24 11:00:00,usuario3,válida
+FAC-4059,2023-03-12,973334444,Proveedor D,1500.25,Repuestos,INT-1059,2023-03-14 11:00:00,usuario1,válida
+FAC-4060,2023-06-22,997654321,Proveedor B,1000.0,Compra de insumos,INT-1060,2023-06-25 08:00:00,usuario1,válida
+FAC-4061,2023-02-21,991234567,Proveedor A,250.5,Repuestos,INT-1061,2023-02-23 12:00:00,usuario2,válida
+FAC-4062,2023-06-05,991234567,Proveedor A,250.5,Compra de insumos,INT-1062,2023-06-08 15:00:00,usuario2,válida
+FAC-4063,2023-04-23,973334444,Proveedor D,1500.25,Compra de insumos,INT-1063,2023-04-25 14:00:00,usuario1,válida
+FAC-4064,2023-05-14,997654321,Proveedor B,1500.25,Repuestos,INT-1064,2023-05-17 17:00:00,usuario1,válida
+FAC-4065,2023-02-04,973334444,Proveedor D,1000.0,Servicios técnicos,INT-1065,2023-02-06 11:00:00,usuario3,válida
+FAC-4066,2023-06-08,997654321,Proveedor B,500.75,Servicios técnicos,INT-1066,2023-06-08 17:00:00,usuario2,válida
+FAC-4067,2023-02-01,997654321,Proveedor B,250.5,Compra de insumos,INT-1067,2023-02-04 16:00:00,usuario2,válida
+FAC-4068,2023-03-09,981112233,Proveedor C,1000.0,Repuestos,INT-1068,2023-03-12 09:00:00,usuario1,válida
+FAC-4069,2023-06-01,991234567,Proveedor A,250.5,Servicios técnicos,INT-1069,2023-06-04 13:00:00,usuario1,válida
+FAC-4070,2023-05-29,973334444,Proveedor D,1500.25,Repuestos,INT-1070,2023-05-29 14:00:00,usuario1,válida
+FAC-4071,2023-01-30,981112233,Proveedor C,1000.0,Compra de insumos,INT-1071,2023-02-01 09:00:00,usuario2,válida
+FAC-4072,2023-03-25,973334444,Proveedor D,500.75,Compra de insumos,INT-1072,2023-03-27 10:00:00,usuario2,válida
+FAC-4073,2023-06-29,973334444,Proveedor D,1500.25,Repuestos,INT-1073,2023-06-30 14:00:00,usuario1,válida
+FAC-4074,2023-02-22,991234567,Proveedor A,500.75,Servicios técnicos,INT-1074,2023-02-24 16:00:00,usuario1,válida
+FAC-4075,2023-04-09,997654321,Proveedor B,250.5,Repuestos,INT-1075,2023-04-09 15:00:00,usuario1,válida
+FAC-4076,2023-03-06,991234567,Proveedor A,500.75,Repuestos,INT-1076,2023-03-08 17:00:00,usuario1,válida
+FAC-4077,2023-01-13,973334444,Proveedor D,500.75,Servicios técnicos,INT-1077,2023-01-14 16:00:00,usuario3,válida
+FAC-4078,2023-06-21,981112233,Proveedor C,250.5,Compra de insumos,INT-1078,2023-06-24 13:00:00,usuario1,válida
+FAC-4079,2023-01-12,973334444,Proveedor D,1500.25,Servicios técnicos,INT-1079,2023-01-13 15:00:00,usuario3,válida
+FAC-4080,2023-06-10,981112233,Proveedor C,1000.0,Servicios técnicos,INT-1080,2023-06-11 14:00:00,usuario1,válida
+FAC-4081,2023-05-20,997654321,Proveedor B,250.5,Compra de insumos,INT-1081,2023-05-22 10:00:00,usuario1,válida
+FAC-4082,2023-02-02,981112233,Proveedor C,1000.0,Repuestos,INT-1082,2023-02-02 18:00:00,usuario3,válida
+FAC-4083,2023-02-11,981112233,Proveedor C,1500.25,Compra de insumos,INT-1083,2023-02-14 15:00:00,usuario2,válida
+FAC-4084,2023-03-19,997654321,Proveedor B,1500.25,Repuestos,INT-1084,2023-03-20 12:00:00,usuario2,válida
+FAC-4085,2023-05-27,981112233,Proveedor C,1000.0,Compra de insumos,INT-1085,2023-05-29 10:00:00,usuario2,válida
+FAC-4086,2023-04-04,973334444,Proveedor D,1000.0,Compra de insumos,INT-1086,2023-04-06 14:00:00,usuario1,válida
+FAC-4087,2023-01-26,991234567,Proveedor A,500.75,Servicios técnicos,INT-1087,2023-01-28 12:00:00,usuario2,válida
+FAC-4088,2023-05-16,991234567,Proveedor A,250.5,Servicios técnicos,INT-1088,2023-05-17 16:00:00,usuario1,válida
+FAC-4089,2023-02-20,991234567,Proveedor A,1000.0,Servicios técnicos,INT-1089,2023-02-23 08:00:00,usuario3,válida
+FAC-4090,2023-06-27,973334444,Proveedor D,500.75,Servicios técnicos,INT-1090,2023-06-28 13:00:00,usuario2,válida
+FAC-4091,2023-02-03,991234567,Proveedor A,1500.25,Servicios técnicos,INT-1091,2023-02-03 08:00:00,usuario2,válida
+FAC-4092,2023-03-19,973334444,Proveedor D,1000.0,Servicios técnicos,INT-1092,2023-03-20 11:00:00,usuario3,válida
+FAC-4093,2023-05-19,991234567,Proveedor A,1500.25,Compra de insumos,INT-1093,2023-05-19 09:00:00,usuario2,válida
+FAC-4094,2023-02-22,991234567,Proveedor A,250.5,Compra de insumos,INT-1094,2023-02-24 18:00:00,usuario3,válida
+FAC-4095,2023-05-31,991234567,Proveedor A,250.5,Repuestos,INT-1095,2023-06-03 08:00:00,usuario3,anulada
+FAC-4096,2023-04-02,997654321,Proveedor B,250.5,Repuestos,INT-1096,2023-04-04 08:00:00,usuario1,anulada
+FAC-4097,2023-05-28,973334444,Proveedor D,250.5,Repuestos,INT-1097,2023-05-28 12:00:00,usuario3,anulada
+FAC-4098,2023-04-22,991234567,Proveedor A,500.75,Repuestos,INT-1098,2023-04-25 17:00:00,usuario1,anulada
+FAC-4099,2023-03-23,991234567,Proveedor A,1500.25,Compra de insumos,INT-1099,2023-03-23 11:00:00,usuario2,anulada
+FAC-4010,2023-06-09,981112233,Proveedor C,1000.0,Servicios técnicos,INT-1010,2023-06-09 16:00:00,usuario2,válida
+FAC-4020,2023-02-18,973334444,Proveedor D,500.75,Servicios técnicos,INT-1020,2023-02-18 10:00:00,usuario3,válida
+FAC-4030,2023-02-14,973334444,Proveedor D,1000.0,Servicios técnicos,INT-1030,2023-02-14 13:00:00,usuario3,válida
